@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;cliente-api/docs/gitflow.txt&apos; to &apos;git flow.txt&apos;" description="Rename resource &apos;gitflow.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="docs/gitflow.txt" name="git flow.txt" stamp="1568417702359" updateReferences="true"/>
+</session>

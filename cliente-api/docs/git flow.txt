@@ -1,0 +1,5 @@
+realize download de uma nova versão do software;
+faça edições e crie novas versões;
+tenha um histórico de todas as alterações feitas em arquivos;
+contribua em projetos, de maneira bem simples.
+interface muito facil de ser utilizada e ser compreendida;
